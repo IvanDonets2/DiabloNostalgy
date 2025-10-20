@@ -1,0 +1,6 @@
+Axe
+Battle Axe
+Broad Axe
+Great Axe
+Large Axe
+Small Axe

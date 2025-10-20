@@ -1,0 +1,8 @@
+Short Bow
+Long Bow
+Hunter's Bow
+Composite Bow
+Short Battle Bow
+Long Battle Bow
+Short War Bow
+Long War Bow
