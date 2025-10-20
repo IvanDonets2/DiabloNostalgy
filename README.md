@@ -14,7 +14,10 @@ https://github.com/IvanDonets2/DiabloNostalgy/raw/refs/heads/master/Diablo%20Nos
 
 
 
-My nostalgy for Diablo game, made in Unity3d.
+
+-------------------
+
+This is my nostalgy for Diablo game, made in Unity3d.
 
 Watch 
 
